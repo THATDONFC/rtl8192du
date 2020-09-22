@@ -1,4 +1,4 @@
-##RTL8192DU Driver
+## RTL8192DU Driver
 =========
 
 Source code for RTL8192DU device
